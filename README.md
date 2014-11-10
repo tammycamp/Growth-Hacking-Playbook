@@ -2,10 +2,10 @@
 <br>
 by 
 <br>
-Tammy Camp<br>
+<p>Tammy Camp<br>
 http://twitter.com/tammycamp<br>
 http://tammycamp.com<br>
-tammy@tammycamp.com</center>
+tammy@tammycamp.com</p></center>
 
 <h2>Bio of the Author</h2>
 
