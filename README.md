@@ -8,7 +8,7 @@ tammy@tammycamp.com</p></center>
 
 <h2>Bio of the Author</h2>
 
-<p>Tammy recently joined <a href="https://stellar.org">Stellar Development Foundation</a>, where she focuses on growth initiatives. Tammy is a serial entrepreneur with 13 years of experience in digital advertising and commerce. Her recent experience includes creating and running Action Factory, a digital publishing network, participating as 500 Startups Distribution Hacker in Residence, as well as working on demand generation projects at WalmartLabs.  Earlier in Tammy's career, she was an affiliated advertiser who generated over a $1 billion worth of revenues for e-commerce merchants such as Amazon, Eddie Bauer, Hotwire, Nordstrom, Priceline and Spiegel.</p>
+<p>Tammy recently joined <a href="http://500.co">500 Startups</a>, where she is a Distribution Hacker in Residence. Tammy is a serial entrepreneur with 14 years of experience in demand generation, digital advertising and commerce. Her recent experience includes creating and running Action Factory, a digital publishing network, participating as Stellar.org's first Head of Grwoth, as well as working on demand generation projects at WalmartLabs.  Earlier in Tammy's career, she was an affiliated advertiser who generated over a $1 billion worth of revenues for e-commerce merchants such as Amazon, Eddie Bauer, Hotwire, Nordstrom, Priceline and Spiegel.</p>
 
 <h1>Licensed under the Creative Commons Attribution 3.0 License<h1>
 
